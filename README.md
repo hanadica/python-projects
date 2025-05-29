@@ -20,4 +20,4 @@ Rock Paper Scissors Coded:
 Rock Paper Scissors is the game many people know throughout childhood, but this time in a codespace. The user picks what they want to play, and then the computer responds randomly. The code counts how many times you have won, lost, and tied. The project is unique because I gave numbers the values of different plays rather than randomizing what is picked between different variables.
 
 Slot Machine:
-Slotmachine (1) is an interactive game where the user starts off with a certain number of credits, and is able to gain or lose more by playing slots. This game is unique because you can choose what 
+Slotmachine (1) is an interactive game where the user starts off with a certain number of credits, and is able to gain or lose more by playing slots. This game is unique because the program allows you to bet whatever amount of credits the user would like, whilst still ensuring that the user has enough credits to bet.
